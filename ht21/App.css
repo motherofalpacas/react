@@ -1,0 +1,26 @@
+.item {
+    text-align: center;
+    width: 200px;
+    background-color: #717177;
+    
+}
+
+.item-logo {
+    display: inline-block;
+   width: 100%;
+}
+
+.item-header {
+    background-color:rgb(226, 114, 166);
+    
+}
+.main {
+    position: relative;
+}
+
+.footer-text{
+    text-align: start;
+}
+.footer {
+    background-color: rgb(176, 236, 236);
+}
