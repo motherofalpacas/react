@@ -1,0 +1,31 @@
+.item {
+    text-align: center;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.item-logo {
+    display: inline-block;
+    width: 100%;
+}
+
+.item-header {
+    background-color:rgb(226, 114, 166);
+    
+}
+.main {
+    background-color: #717177;
+}
+
+.footer-text{
+    text-align: start;
+}
+.footer {
+    background-color: rgb(176, 236, 236);
+}
+
+p{
+    margin: 0;
+}
